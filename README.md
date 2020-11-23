@@ -1,2 +1,2 @@
 # TF_Displacement
-Credict displacement of the construction using tensorflow.
+Predict displacement of the construction using tensorflow.
