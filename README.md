@@ -1,2 +1,2 @@
-# ML_Displacement_Detection
+# ML-Displacement-Detection
 Predicts displacement of the construction using tensorflow.
