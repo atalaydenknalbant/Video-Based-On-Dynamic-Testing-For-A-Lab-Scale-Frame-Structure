@@ -2,4 +2,4 @@
 
 
 # ML-Displacement-Detection
-Predicts displacement of the construction using tensorflow Dnn Regression Model.
+Predicts displacement of the construction using tensorflow DNN Regression Model.
